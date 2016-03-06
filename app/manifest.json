@@ -26,5 +26,20 @@
     },
     "default_title": "Stack Block",
     "default_popup": "popup.html"
-  }
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "http://stackoverflow.com/*",
+        "http://*.stackexchange.com/*",
+        "https://*/*"
+      ],
+      "js": [
+        "bower_components/jquery/dist/jquery.js",
+        "scripts/content-script.js"
+      ],
+      "run_at": "document_end",
+      "all_frames": false
+    }
+  ]
 }
