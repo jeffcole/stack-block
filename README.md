@@ -18,12 +18,13 @@ cd stack-block
 Install dependencies.
 
 ```bash
-npm install --global yo gulp bower generator-chrome-extension
+npm install
+node_modules/.bin/bower install
 ```
 
 Build the project.
 ```bash
-gulp build
+node_modules/.bin/gulp build
 ```
 
 In Chrome, go to `chrome://extensions`, enable 'Developer mode', click 'Load unpacked extension', and navigate to and select the `app` directory of the project.
