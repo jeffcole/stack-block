@@ -1,3 +1,8 @@
 body {
-  padding: 20px;
+}
+
+.container {
+  line-height: 1.25em;
+  margin: 10px;
+  width: 150px;
 }
