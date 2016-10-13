@@ -37,7 +37,7 @@ The extension is available for installation on the Chrome Web Store [here][Web S
 
 ## License
 
-© 2016 Jeff Cole. See [LICENSE](LICENSE) for more information.
+Copyright © 2016 Jeff Cole. See [LICENSE](LICENSE) for more information.
 
 
 [Web Store]: https://chrome.google.com/webstore/detail/stack-block/oaimjdjckmmblefojgncilidkkandhbl
