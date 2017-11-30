@@ -4,7 +4,7 @@
 
 Sometimes, you just want to read technical questions and answers, and not be distracted by whether or not Darth Vader truly renounced the dark side in the moments before his death.
 
-This Chrome extension blocks the Hot Network Questions, Careers, Hire Me, and other sections on Stack Overflow and Stack Exchange, so you can get back to work.
+This Chrome extension blocks the Hot Network Questions, Careers, Hire Me, and other sections on Server Fault, Stack Exchange, Stack Overflow, and Super User, so you can get back to work.
 
 ## Development
 
